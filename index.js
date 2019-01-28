@@ -7,5 +7,7 @@ module.exports = {name, height, message}
 
 
 /*
-describe('')
+describe('Name', () => {it('returns "Susan"', () => {expect(index.name).toEqual('Susan')})})
+
+
 */
